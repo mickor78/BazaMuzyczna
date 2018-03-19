@@ -6,7 +6,7 @@ public class Utwor {
     String direction; //katalog
     String titlle = "NULL";
     String author = "NULL";
-    String alubum = "NULL";
+    String alubum = "NULL"; //name
 
     public Utwor(String direction, String titlle, String author, String alubum) {
         this.direction = direction;
